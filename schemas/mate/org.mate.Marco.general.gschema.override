@@ -1,4 +1,4 @@
 [org.mate.background]
 compositing-manager=true
 theme='Arc-Darker'
-titlebar-font='Clear Sans Bold 11'
+titlebar-font='Clear Sans Bold 10'

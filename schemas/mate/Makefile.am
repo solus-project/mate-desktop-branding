@@ -4,7 +4,8 @@ MATE_SCHEMAS = \
 	org.mate.interface.gschema.override \
 	org.mate.peripherals-mouse.gschema.override \
 	org.mate.peripherals-touchpad.gschema.override \
-	org.mate.Marco.general.gschema.override
+	org.mate.Marco.general.gschema.override \
+	org.mate.panel.menubar.gschema.override
 
 %.gschema.override:
 	rm -f $@ ;

@@ -3,7 +3,8 @@ MATE_SCHEMAS = \
 	org.mate.font-rendering.gschema.override \
 	org.mate.interface.gschema.override \
 	org.mate.peripherals-mouse.gschema.override \
-	org.mate.peripherals-touchpad.gschema.override
+	org.mate.peripherals-touchpad.gschema.override \
+	org.mate.Marco.general.gschema.override
 
 %.gschema.override:
 	rm -f $@ ;

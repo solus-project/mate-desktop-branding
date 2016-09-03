@@ -1,2 +1,4 @@
-[org.mate.background]
-picture-filename='/usr/share/backgrounds/solus/Athlone-Shannon-1920x1080.png'
+[org.mate.interface]
+gtk-theme='Arc-Darker'
+icon-theme='Arc'
+font-name='Clear Sans 10'

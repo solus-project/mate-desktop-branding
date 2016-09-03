@@ -1,7 +1,8 @@
 MATE_SCHEMAS = \
 	org.mate.background.gschema.override \
 	org.mate.font-rendering.gschema.override \
-	org.mate.interface.gschema.override
+	org.mate.interface.gschema.override \
+	org.mate.peripherals-mouse.gschema.override
 
 %.gschema.override:
 	rm -f $@ ;

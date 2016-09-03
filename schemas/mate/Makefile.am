@@ -1,5 +1,6 @@
 MATE_SCHEMAS = \
-	org.mate.background.gschema.override
+	org.mate.background.gschema.override \
+	org.mate.font-rendering.gschema.override
 
 %.gschema.override:
 	rm -f $@ ;

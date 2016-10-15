@@ -1,3 +1,4 @@
 SUBDIRS = \
+	lightdm \
 	panel \
 	schemas

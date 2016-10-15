@@ -18,7 +18,7 @@ locked=true
 
 [Object install]
 object-type=launcher
-launcher-location=/usr/share/applications/os-installer.desktop
+launcher-location=/usr/share/applications/os-installer-gtk.desktop
 toplevel-id=bottom
 position=20
 locked=true

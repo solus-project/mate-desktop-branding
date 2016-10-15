@@ -6,6 +6,7 @@ MATE_SCHEMAS = \
 	org.mate.peripherals-touchpad.gschema.override \
 	org.mate.Marco.general.gschema.override \
 	org.mate.panel.gschema.override \
+	org.mate.panel.applet.clock.gschema.override \
 	org.mate.panel.menubar.gschema.override \
 	org.mate.NotificationDaemon.gschema.override
 

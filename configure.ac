@@ -5,5 +5,6 @@ AC_PREFIX_DEFAULT(/usr/local)
 AC_CONFIG_FILES([Makefile
                 panel/Makefile
                 schemas/Makefile
+                schemas/livecd/Makefile
                 schemas/mate/Makefile])
 AC_OUTPUT

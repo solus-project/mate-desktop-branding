@@ -1,4 +1,5 @@
 MATE_LIVE_SCHEMAS = \
+	org.mate.caja.desktop.gschema.override \
 	org.mate.panel.gschema.override
 
 %.gschema.override:

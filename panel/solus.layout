@@ -9,25 +9,11 @@ toplevel-id=top
 position=0
 locked=true
 
-[Object web-browser]
-object-type=launcher
-launcher-location=/usr/share/applications/firefox.desktop
-toplevel-id=top
-position=10
-locked=true
-
-[Object software-center]
-object-type=launcher
-launcher-location=/usr/share/applications/solus-sc.desktop
-toplevel-id=top
-position=20
-locked=true
-
 [Object window-list]
 object-type=applet
 applet-iid=WnckletFactory::WindowListApplet
 toplevel-id=top
-position=30
+position=10
 locked=true
 
 [Object notification-area]

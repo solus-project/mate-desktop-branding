@@ -1,39 +1,39 @@
-[Toplevel bottom]
+[Toplevel top]
 expand=true
-orientation=bottom
+orientation=top
 size=24
 
 [Object menu-bar]
 object-type=menu-bar
-toplevel-id=bottom
+toplevel-id=top
 position=0
 locked=true
 
 [Object web-browser]
 object-type=launcher
 launcher-location=/usr/share/applications/firefox.desktop
-toplevel-id=bottom
+toplevel-id=top
 position=10
 locked=true
 
 [Object software-center]
 object-type=launcher
 launcher-location=/usr/share/applications/solus-sc.desktop
-toplevel-id=bottom
+toplevel-id=top
 position=20
 locked=true
 
 [Object window-list]
 object-type=applet
 applet-iid=WnckletFactory::WindowListApplet
-toplevel-id=bottom
+toplevel-id=top
 position=30
 locked=true
 
 [Object notification-area]
 object-type=applet
 applet-iid=NotificationAreaAppletFactory::NotificationArea
-toplevel-id=bottom
+toplevel-id=top
 position=20
 panel-right-stick=true
 locked=true
@@ -41,7 +41,7 @@ locked=true
 [Object clock]
 object-type=applet
 applet-iid=ClockAppletFactory::ClockApplet
-toplevel-id=bottom
+toplevel-id=top
 position=10
 panel-right-stick=true
 locked=true
@@ -49,7 +49,7 @@ locked=true
 [Object show-desktop]
 object-type=applet
 applet-iid=WnckletFactory::ShowDesktopApplet
-toplevel-id=bottom
+toplevel-id=top
 position=0
 panel-right-stick=true
 locked=true

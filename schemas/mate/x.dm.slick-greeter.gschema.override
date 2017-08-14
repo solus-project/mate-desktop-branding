@@ -1,0 +1,5 @@
+[x.dm.slick-greeter]
+background="/usr/share/backgrounds/solus/Path.jpg"
+theme-name="Arc-Darker"
+icon-theme-name="Arc"
+font-name="Clear Sans 10"

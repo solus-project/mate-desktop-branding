@@ -9,7 +9,8 @@ MATE_SCHEMAS = \
 	org.mate.panel.applet.clock.gschema.override \
 	org.mate.panel.menubar.gschema.override \
 	org.mate.NotificationDaemon.gschema.override \
-	com.solus-project.brisk-menu.gschema.override
+	com.solus-project.brisk-menu.gschema.override \
+	x.dm.slick-greeter.gschema.override
 
 %.gschema.override:
 	rm -f $@ ;

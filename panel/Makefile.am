@@ -1,6 +1,5 @@
 PANEL_LAYOUTS = \
-	solus.layout \
-	solus-live.layout
+	solus.layout
 
 EXTRA_DIST = \
 	$(PANEL_LAYOUTS)

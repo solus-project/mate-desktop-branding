@@ -1,7 +1,7 @@
 project(
     'mate-desktop-branding',
     ['c'],
-    version: '17',
+    version: '16',
     license: [
         'GPL-2.0',
     ],
